@@ -75,14 +75,6 @@ Customer segmentation allows for:
 
 ---
 
-## 🚀 Next Steps
-- Integrate Recency feature for complete RFM analysis.
-- Implement real-time clustering with streaming transaction data.
-- Build dashboards for business teams to monitor segments.
-- Test supervised models to predict customer movement between segments.
-
----
-
 ## 📬 Author
 **Kwaku Bonful Bosompim**  
 📍 Berlin, Germany  
